@@ -1,0 +1,23 @@
+# Binaries
+/netview
+/netview.exe
+*.test
+*.out
+
+# Captures and default save location
+*.pcap
+*.pcapng
+netViewSaves/
+
+# Go build/cache artifacts
+/bin/
+/dist/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
